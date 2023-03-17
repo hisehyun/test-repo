@@ -1,4 +1,4 @@
-print("Hello World!")
+print("H")
 print("hi world!")
 print('godbye world!')
 
